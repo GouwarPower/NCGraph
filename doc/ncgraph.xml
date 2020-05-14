@@ -1,0 +1,26 @@
+<Chapter Label="The NCGraph Package">
+<Heading>The NCGraph Package</Heading>
+
+<Index>NCGraph package</Index>
+This chapter  describes  the  &GAP;  package  &NCGraph;, a package for creating
+non-commuting graphs of finite groups.
+<P/>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<Section Label="The Main Functions">
+<Heading>The Main Functions</Heading>
+
+The following functions are available:
+
+<#Include Label="NonCommutingGraph">
+
+<#Include Label="RemoveCenter">
+
+<#Include Label="AdjacencyMatrix">
+
+</Section>
+</Chapter>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<!-- %% -->
+<!-- %E -->
